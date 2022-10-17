@@ -37,7 +37,7 @@ All of these changes aided in refactoring the Horiseon site without changing the
 
 ## Screenshots
 
-![App Screenshot](assets\images\website-preview.png)
+![Website Preview](/assets/images/website-preview.png)
 
 
 
